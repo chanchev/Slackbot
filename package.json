@@ -1,0 +1,11 @@
+{
+  "name": "slackbot",
+  "version": "1.0.0",
+  "description": "Positive message bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Chanchev Mahendran",
+  "license": "ISC"
+}
